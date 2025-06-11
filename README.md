@@ -10,6 +10,7 @@ Contributions are very welcome! Please [review our contributing guidelines](http
 
 Name | Website | Region
 ------------ | ------- | -------
+[digitorm](/company-profiles/digitorm.md) | [http://digitorm.com] | America
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
